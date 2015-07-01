@@ -10,3 +10,5 @@ Here are the files for the website:
 
 Changed:
 user, email
+
+# Using this repository for "Git Essentials"
